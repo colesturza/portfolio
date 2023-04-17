@@ -4,16 +4,15 @@
 </script>
 
 <!-- nav -->
-<nav class="bg-gray-200 shadow-md">
+<nav class="bg-slate-100 shadow-md">
   <div class="max-w-7xl mx-auto px-8">
     <div class="flex justify-between">
       <!-- primary nav -->
       <div class="flex items-center space-x-1">
         {#if $page.url.pathname !== '/'}
           <a href="/" class="py-3 px-3">
-            <h1
-              class="font-extrabold text-transparent text-2xl bg-clip-text bg-gradient-to-r from-purple-500 to-pink-600"
-            >
+            <!-- prettier-ignore -->
+            <h1 class="font-extrabold text-transparent text-2xl bg-clip-text bg-gradient-to-r from-purple-500 to-pink-600">
               Cole Sturza
             </h1>
           </a>
