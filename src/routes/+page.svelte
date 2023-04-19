@@ -1,9 +1,8 @@
 <div class="py-3 px-3">
   <div class="max-w-7xl mx-auto px-8">
-    <div class="flex items-center space-x-1">
-      <h1
-        class="py-3 px-3 font-extrabold text-transparent text-5xl bg-clip-text bg-gradient-to-r from-purple-500 to-pink-600"
-      >
+    <div class="flex">
+      <!-- prettier-ignore -->
+      <h1 class="py-3 px-3 font-extrabold text-transparent text-5xl bg-clip-text bg-gradient-to-r from-purple-500 to-pink-600">
         Cole Sturza
       </h1>
     </div>
@@ -20,7 +19,7 @@
       <br />
       <p>
         My name is Cole Sturza. I am currently a Software Engineer at Lockheed Martin Space. Presently, I work on a team
-        that primarily focuses on creating communications simulation software.
+        that primarily focuses on creating communications operations analysis software.
       </p>
       <br />
       <p>
@@ -34,7 +33,7 @@
         Professionally, my interests are backend software development, DevOps, AI, machine learning, natural language
         processing, deep learning, and operations research (also known as convex optimization). I typically enjoy topics
         focused on math, computer science, engineering, economics, and political science (particularly computational
-        social choice, political economy, and urban planning). I do also dable in frontend development occasionally.
+        social choice, political economy, and urban planning). I do also dabble in frontend development occasionally.
       </p>
       <br />
       <p>
